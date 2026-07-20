@@ -22,6 +22,10 @@ This project analyzes an e-commerce sales dataset using Excel, MySQL, and Power 
 - Column Chart
 - Slicers
 
+## Screenshots
+![Screenshot(6)](Screenshot(6).png)
+![screenshot](screenshot.png)
+
 ## Key Insights
 - Analyzed customer orders and sales.
 - Compared payment methods and order status.
